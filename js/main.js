@@ -24,7 +24,7 @@
     },
     {
       id: "lloyds", lane: 0, org: "Lloyds Banking Group", title: "Data analyst, credit risk",
-      label: "Lloyds", start: [2022, 3], end: [2023, 7], dates: "March 2022 to July 2023",
+      label: "Lloyds Bank", start: [2022, 3], end: [2023, 7], dates: "March 2022 to July 2023",
       bullets: [
         "Salesforce migration: defined requirements and transformation logic for lending and collateral customer journeys.",
         "Analysed business banking and SME customer and collateral data across legacy source systems.",
@@ -74,7 +74,7 @@
     {
       id: "now", lane: 0, org: "Accenture Marketing Operations", client: "LinkedIn, digital marketing",
       title: "Senior data analyst, digital marketing",
-      label: "Accenture", start: [2026, 1], end: null, dates: "January 2026 to present", current: true,
+      label: "LinkedIn", start: [2026, 1], end: null, dates: "January 2026 to present", current: true,
       bullets: [
         "Manage campaign ads QA to keep reporting accurate and data intact across business dashboards.",
         "Develop automated planning and forecasting solutions that support business unit budget management.",
